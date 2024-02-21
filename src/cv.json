@@ -2,10 +2,10 @@
     "basics": {
         "name": "Joan Enajas Cortés",
         "label": "Programador junior",
-        "image": "/me.webp",
+        "image": "public/foto-cv.Png",
         "email": "joan.Enajas@gmail.com",
         "phone": "+34 626589219",
-        "summary": "Programador junior cursando último año de DAM haciendo proyecto final de grado. Apasionado por el sector mobile y el front, con android studio y kotlin",
+        "summary": "Programador junior cursando último semestre de DAM haciendo proyecto final de grado. Apasionado por el sector mobile y el front, con android studio y kotlin. ",
         "location": {
             "address": "",
             "postalCode": "08760",
@@ -19,15 +19,11 @@
                 "username": "Joanet",
                 "url": "https://www.linkedin.com/in/joan-enajas-cort%C3%A9s-4689906a/"
             },
-            {
-                "network": "X",
-                "username": "midudev",
-                "url": "https://x.com/midudev"
-            },
+           
             {
                 "network": "GitHub",
-                "username": "midudev",
-                "url": "https://github.com/midudev"
+                "username": "J0anet",
+                "url": "https://github.com/J0anet"
             }
         ]
     },
